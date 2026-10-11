@@ -1,0 +1,659 @@
+{
+  "floorplan": {
+    "corners": {
+      "a": {
+        "x": -650,
+        "y": -380
+      },
+      "b": {
+        "x": -200,
+        "y": -380
+      },
+      "c": {
+        "x": 200,
+        "y": -380
+      },
+      "d": {
+        "x": 650,
+        "y": -380
+      },
+      "e": {
+        "x": 650,
+        "y": -50
+      },
+      "f": {
+        "x": 650,
+        "y": 380
+      },
+      "g": {
+        "x": 200,
+        "y": 380
+      },
+      "h": {
+        "x": -200,
+        "y": 380
+      },
+      "i": {
+        "x": -650,
+        "y": 380
+      },
+      "j": {
+        "x": -200,
+        "y": -80
+      },
+      "k": {
+        "x": 200,
+        "y": -80
+      },
+      "l": {
+        "x": 200,
+        "y": 80
+      },
+      "m": {
+        "x": -200,
+        "y": 80
+      },
+      "n": {
+        "x": 400,
+        "y": 80
+      },
+      "o": {
+        "x": 400,
+        "y": 380
+      }
+    },
+    "walls": [
+      {
+        "corner1": "a",
+        "corner2": "b",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "b",
+        "corner2": "c",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "c",
+        "corner2": "d",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "d",
+        "corner2": "e",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "e",
+        "corner2": "f",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "f",
+        "corner2": "g",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "g",
+        "corner2": "h",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "h",
+        "corner2": "i",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "i",
+        "corner2": "a",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "b",
+        "corner2": "j",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "j",
+        "corner2": "m",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "m",
+        "corner2": "h",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "c",
+        "corner2": "k",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "k",
+        "corner2": "l",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "l",
+        "corner2": "g",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "l",
+        "corner2": "n",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      },
+      {
+        "corner1": "n",
+        "corner2": "o",
+        "frontTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        },
+        "backTexture": {
+          "url": "rooms/textures/wallmap.png",
+          "stretch": true,
+          "scale": 0
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "item_name": "Large Sofa",
+      "item_type": 1,
+      "model_url": "models/js/cb-rochelle-gray_baked.js",
+      "xpos": -410,
+      "ypos": -150,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "scale_z": 1.0,
+      "fixed": false
+    },
+    {
+      "item_name": "Coffee Table",
+      "item_type": 1,
+      "model_url": "models/js/ik-stockholmcoffee-brown.js",
+      "xpos": -410,
+      "ypos": -20,
+      "zpos": -80,
+      "rotation": 0,
+      "scale_x": 0.85,
+      "scale_y": 0.85,
+      "scale_z": 0.85,
+      "fixed": false
+    },
+    {
+      "item_name": "Armchair 1",
+      "item_type": 1,
+      "model_url": "models/js/gus-churchchair-whiteoak.js",
+      "xpos": -560,
+      "ypos": -30,
+      "zpos": 80,
+      "rotation": 0,
+      "scale_x": 0.7,
+      "scale_y": 0.7,
+      "scale_z": 0.7,
+      "fixed": false
+    },
+    {
+      "item_name": "Armchair 2",
+      "item_type": 1,
+      "model_url": "models/js/ik-ekero-blue_baked.js",
+      "xpos": -250,
+      "ypos": -10,
+      "zpos": 80,
+      "rotation": 0,
+      "scale_x": 0.7,
+      "scale_y": 0.7,
+      "scale_z": 0.7,
+      "fixed": false
+    },
+    {
+      "item_name": "TV Unit",
+      "item_type": 1,
+      "model_url": "models/js/cb-kendallbookcasewalnut_baked.js",
+      "xpos": -60,
+      "ypos": -270,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.85,
+      "scale_y": 0.85,
+      "scale_z": 0.85,
+      "fixed": false
+    },
+    {
+      "item_name": "Floor Lamp",
+      "item_type": 1,
+      "model_url": "models/js/ore-3legged-white_baked.js",
+      "xpos": -600,
+      "ypos": -170,
+      "zpos": 130,
+      "rotation": 0,
+      "scale_x": 0.75,
+      "scale_y": 0.75,
+      "scale_z": 0.75,
+      "fixed": false
+    },
+    {
+      "item_name": "Dining Table",
+      "item_type": 1,
+      "model_url": "models/js/cb-scholartable_baked.js",
+      "xpos": -400,
+      "ypos": 220,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.95,
+      "scale_y": 0.95,
+      "scale_z": 0.95,
+      "fixed": false
+    },
+    {
+      "item_name": "Dining Chair 1",
+      "item_type": 1,
+      "model_url": "models/js/gus-churchchair-whiteoak.js",
+      "xpos": -490,
+      "ypos": 220,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Dining Chair 2",
+      "item_type": 1,
+      "model_url": "models/js/gus-churchchair-whiteoak.js",
+      "xpos": -310,
+      "ypos": 220,
+      "zpos": 0,
+      "rotation": 3.141592653589793,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Dining Chair 3",
+      "item_type": 1,
+      "model_url": "models/js/gus-churchchair-whiteoak.js",
+      "xpos": -400,
+      "ypos": 290,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Dining Chair 4",
+      "item_type": 1,
+      "model_url": "models/js/gus-churchchair-whiteoak.js",
+      "xpos": -400,
+      "ypos": 150,
+      "zpos": 0,
+      "rotation": 3.141592653589793,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Kitchen Cabinet",
+      "item_type": 1,
+      "model_url": "models/js/cb-tecs_baked.js",
+      "xpos": -40,
+      "ypos": 270,
+      "zpos": 80,
+      "rotation": 0,
+      "scale_x": 0.85,
+      "scale_y": 0.85,
+      "scale_z": 0.85,
+      "fixed": false
+    },
+    {
+      "item_name": "Kitchen Storage",
+      "item_type": 1,
+      "model_url": "models/js/we-narrow6white_baked.js",
+      "xpos": 80,
+      "ypos": 300,
+      "zpos": 80,
+      "rotation": 0,
+      "scale_x": 0.65,
+      "scale_y": 0.65,
+      "scale_z": 0.65,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 1 Bed",
+      "item_type": 1,
+      "model_url": "models/js/ik_nordli_full.js",
+      "xpos": 420,
+      "ypos": 230,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.9,
+      "scale_y": 0.9,
+      "scale_z": 0.9,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 1 Side Table",
+      "item_type": 1,
+      "model_url": "models/js/GUSossingtonendtable.js",
+      "xpos": 315,
+      "ypos": 230,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.5,
+      "scale_y": 0.5,
+      "scale_z": 0.5,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 1 Wardrobe",
+      "item_type": 1,
+      "model_url": "models/js/DWR_MATERA_DRESSER2.js",
+      "xpos": 550,
+      "ypos": 280,
+      "zpos": 0,
+      "rotation": 1.5707963267948966,
+      "scale_x": 0.6,
+      "scale_y": 0.6,
+      "scale_z": 0.6,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 1 Lamp",
+      "item_type": 1,
+      "model_url": "models/js/ore-3legged-white_baked.js",
+      "xpos": 545,
+      "ypos": 280,
+      "zpos": 110,
+      "rotation": 0,
+      "scale_x": 0.5,
+      "scale_y": 0.5,
+      "scale_z": 0.5,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 2 Bed",
+      "item_type": 1,
+      "model_url": "models/js/ik_nordli_full.js",
+      "xpos": 40,
+      "ypos": 230,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.85,
+      "scale_y": 0.85,
+      "scale_z": 0.85,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 2 Side Table",
+      "item_type": 1,
+      "model_url": "models/js/GUSossingtonendtable.js",
+      "xpos": -65,
+      "ypos": 230,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.5,
+      "scale_y": 0.5,
+      "scale_z": 0.5,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 2 Wardrobe",
+      "item_type": 1,
+      "model_url": "models/js/DWR_MATERA_DRESSER2.js",
+      "xpos": 150,
+      "ypos": 300,
+      "zpos": 0,
+      "rotation": 1.5707963267948966,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 2 Lamp",
+      "item_type": 1,
+      "model_url": "models/js/ore-3legged-white_baked.js",
+      "xpos": 150,
+      "ypos": 300,
+      "zpos": 110,
+      "rotation": 0,
+      "scale_x": 0.5,
+      "scale_y": 0.5,
+      "scale_z": 0.5,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 3 Bed",
+      "item_type": 1,
+      "model_url": "models/js/ik_nordli_full.js",
+      "xpos": 40,
+      "ypos": -220,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.85,
+      "scale_y": 0.85,
+      "scale_z": 0.85,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 3 Side Table",
+      "item_type": 1,
+      "model_url": "models/js/GUSossingtonendtable.js",
+      "xpos": -65,
+      "ypos": -220,
+      "zpos": 0,
+      "rotation": 0,
+      "scale_x": 0.5,
+      "scale_y": 0.5,
+      "scale_z": 0.5,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 3 Wardrobe",
+      "item_type": 1,
+      "model_url": "models/js/DWR_MATERA_DRESSER2.js",
+      "xpos": 150,
+      "ypos": -320,
+      "zpos": 0,
+      "rotation": 1.5707963267948966,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Bedroom 3 Lamp",
+      "item_type": 1,
+      "model_url": "models/js/ore-3legged-white_baked.js",
+      "xpos": 150,
+      "ypos": -320,
+      "zpos": 110,
+      "rotation": 0,
+      "scale_x": 0.5,
+      "scale_y": 0.5,
+      "scale_z": 0.5,
+      "fixed": false
+    },
+    {
+      "item_name": "Storage Cabinet",
+      "item_type": 1,
+      "model_url": "models/js/we-narrow6white_baked.js",
+      "xpos": 300,
+      "ypos": -120,
+      "zpos": 0,
+      "rotation": 1.5707963267948966,
+      "scale_x": 0.55,
+      "scale_y": 0.55,
+      "scale_z": 0.55,
+      "fixed": false
+    },
+    {
+      "item_name": "Wall Art",
+      "item_type": 1,
+      "model_url": "models/js/nyc-poster2.js",
+      "xpos": -640,
+      "ypos": 180,
+      "zpos": 120,
+      "rotation": 0,
+      "scale_x": 0.4,
+      "scale_y": 0.4,
+      "scale_z": 0.4,
+      "fixed": false
+    }
+  ]
+}
